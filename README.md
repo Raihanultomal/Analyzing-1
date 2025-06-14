@@ -1,7 +1,7 @@
 # Analyzing-1
 
-## Overview: !
-[Dashboard Preview](https://github.com/Raihanultomal/Analyzing-1/blob/main/Analyzing_1.png)
+## Overview: 
+![Dashboard Preview](https://github.com/Raihanultomal/Analyzing-1/blob/main/Analyzing_1.png)
 
 ## a) In the “Star Rating 2024” sheet, could you identify any significant relationship between Star Rating and SNP?
 
