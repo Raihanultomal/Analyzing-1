@@ -1,5 +1,8 @@
 # Analyzing-1
 
+## Overview: !
+[Dashboard Preview](https://github.com/Raihanultomal/Analyzing-1/blob/main/Analyzing_1.png)
+
 ## a) In the “Star Rating 2024” sheet, could you identify any significant relationship between Star Rating and SNP?
 
 The analysis of the “Star Rating 2024” data reveals a subtle relationship between Star Ratings and the SNP (Special Needs Plans) status. The overall average rating across all contracts is 3.63. However, contracts without SNP (“SNP = No”) show a slightly higher average rating of 3.66, compared to 3.59 for contracts with SNP (“SNP = Yes”). Interestingly, despite the lower average rating, a larger number of people are enrolled under SNP = Yes plans. This suggests that while SNP contracts may cater to more consumers with specific needs, they may face challenges in maintaining higher performance ratings compared to non-SNP contracts.
